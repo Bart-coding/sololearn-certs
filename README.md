@@ -14,4 +14,6 @@
 <img src="https://api2.sololearn.com/v2/certificates/CC-KNF8HWI5/image/jpg" width="60%" height="60%">
 <p> https://www.sololearn.com/certificates/CC-KNF8HWI5 </p>
 
-
+# Other
+<img src="https://api2.sololearn.com/v2/certificates/CC-UGNQ2NPF/image/jpg" width="60%" height="60%">
+<p> https://www.sololearn.com/certificates/CC-LSRCGN17 </p>
