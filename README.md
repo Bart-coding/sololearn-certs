@@ -8,6 +8,11 @@
 <img src="https://api2.sololearn.com/v2/certificates/CC-EM42TEJ6/image/jpg" width="60%" height="60%">
 <p> https://www.sololearn.com/certificates/CC-EM42TEJ6 </p>
 
+# Python
+
+<img src="https://api2.sololearn.com/v2/certificates/CC-UIHBQSQD/image/jpg" width="60%" height="60%">
+<p> https://www.sololearn.com/certificates/CC-UIHBQSQD </p>
+
 # HTML & CSS
 <img src="https://api2.sololearn.com/v2/certificates/CC-LSRCGN17/image/jpg" width="60%" height="60%">
 <p> https://www.sololearn.com/certificates/CC-LSRCGN17 </p>
