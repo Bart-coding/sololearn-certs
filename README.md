@@ -10,6 +10,8 @@
 
 # Python
 
+<img src="https://api2.sololearn.com/v2/certificates/CC-DRWIAWDQ/image/jpg" width=60% height=60%>
+<p> https://www.sololearn.com/certificates/CC-DRWIAWDQ </p>
 <img src="https://api2.sololearn.com/v2/certificates/CC-UIHBQSQD/image/jpg" width="60%" height="60%">
 <p> https://www.sololearn.com/certificates/CC-UIHBQSQD </p>
 
